@@ -1,0 +1,8 @@
+{
+  "api_key": "4fefb87cda07dd10e0e6932656b083da",
+  "cities": ["Chennai", "Mumbai", "Delhi", "Bangalore", "Hyderabad", "Kolkata", "Pune", "Ahmedabad","gopi"],
+  "api_base_url": "https://api.openweathermap.org/data/2.5/weather",
+  "units": "metric"
+}
+
+
